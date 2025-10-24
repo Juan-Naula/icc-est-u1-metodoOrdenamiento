@@ -16,3 +16,19 @@ Salida de Python
 
 Salida de Java
 ![alt text](../assets/SortSelectionJava.png)
+
+### Practica 3 - 23/Oct
+Metodo Sort Insertion en java
+
+Arreglo Numeros Enteros
+
+![alt text](assets/ArregloEntero.png)
+
+Arreglo de Cadenas (nombres)
+![alt text](assets/ArregloCadena.png)
+
+Arreglo de personas ordenado por Nombre
+![alt text](assets/ArregloPersonasNombre.png)
+
+Arreglo de personas ordenado por Edad
+![alt text](assets/ArregloPersonasEdad.png)
